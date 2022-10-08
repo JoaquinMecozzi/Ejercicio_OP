@@ -8,6 +8,9 @@
  *
  * @author USUARIO
  */
-public class principal {
-    
+public class coche {
+    int puerta;
+    public void incrementaPuerta(){
+        puerta++;
+    }
 }
